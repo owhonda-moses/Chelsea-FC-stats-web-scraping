@@ -32,8 +32,9 @@ From the analysis:
 - The 4-2-2-2 formation was rarely used by Tuchel, however the 4-4-2 was the least used formation by Tuchel and was only used once just days before his contract termination at Chelsea.
 - N'Golo Kanté in the midfield and as Chelsea captain always ended in a win for Chelsea under Tuchel.
 
-> _I would say, it could have been better but his performance stats at Chelsea isn't too shabby._
+###### _It could have been better but his performance stats at Chelsea isn't too shabby._
 
+>>>_PS: I selected a dark background for the viz because I use a dark theme in my Jupyter notebook._
 
 #### PACKAGES USED:
 
